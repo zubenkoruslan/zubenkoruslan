@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently preparing for AWS Certified Solutions Architect – Associate Certification
+- 🤔 I’m looking for help with using Linux for Cloud.
+
 <!--
 **zubenkoruslan/zubenkoruslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
